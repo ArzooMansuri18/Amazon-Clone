@@ -21,3 +21,9 @@
     <li>CSS Flexbox for layout</li>
     <li>Creating a responsive navbar and footer</li>
   </ul>
+
+  <h2>How to Used?</h2>
+  <ol>
+    <li>Clone this repository or download the files.</li>
+    <li>Open index.html in browser.</li>
+  </ol>
